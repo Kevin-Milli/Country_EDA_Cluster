@@ -2,16 +2,14 @@
 
 ## Introduction
 
-This repository contains a Jupyter notebook that presents an exploratory data analysis of the USA survey data. 
-The primary goal of this project is to examine the survey data and extract meaningful insights through graphs, statistics, and visualizations.
+Welcome to the Country Exploratory Data Analysis and Clustering project! This Jupyter Notebook aims to provide insights into different countries based on various features and to perform clustering to identify patterns.
 
 ## Notebook Structure
 
-1. **Introduction**: A brief introduction to the survey and the objectives of exploratory analysis.
-2. **Data Loading**: Loading data from the source and understanding the columns and data formats.
-3. **Exploratory Analysis**: In-depth analysis of the data, including graphs to visualize distributions, relationships between variables, and more.
-4. **Conclusions**: Key takeaways from the analysis and any important considerations.
-
+- Data Preprocessing: Cleaning and preparing the dataset for analysis.
+- Exploratory Data Analysis: Visualizing and understanding country attributes.
+- Clustering Analysis: Applying machine learning techniques to identify clusters.
+- Key Insights: Summarizing important findings from the analysis.
 
 ## How to Use
 
